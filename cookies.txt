@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+camperise.com	TRUE	/	FALSE	1999999999	PH_HPXY_CHECK	s1
+.yandex.ru	TRUE	/	FALSE	1999999999	bh	YIm3h8wGag/s69e6D7udubEG1e+fzg4=
+

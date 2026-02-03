@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 03 Feb 2026 12:26:50 at http://camperise.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://camperise.com/ -O1 "C:\My Web Sites\camperise-static" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:27:25	Error: 	"Not Found" (404) at link camperise.com/feed/ (from camperise.com/)
+12:27:25	Error: 	"Not Found" (404) at link camperise.com/comments/feed/ (from camperise.com/)
+12:27:25	Error: 	"Not Found" (404) at link camperise.com/camperise-campers-and-travellers-support-hub/feed/ (from camperise.com/)
+12:27:56	Error: 	"Not Found" (404) at link camperise.com/wp-json/ (from camperise.com/)
+12:27:56	Error: 	"Not Found" (404) at link camperise.com/wp-json/wp/v2/pages/2780 (from camperise.com/)
+12:27:56	Error: 	"Forbidden" (403) at link camperise.com/xmlrpc.php?rsd (from camperise.com/)
+12:27:56	Error: 	"Forbidden" (403) at link camperise.com/wp-includes/wlwmanifest.xml (from camperise.com/)
+12:27:56	Error: 	"Not Found" (404) at link camperise.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcamperise.com%2F (from camperise.com/)
+12:27:56	Error: 	"Not Found" (404) at link camperise.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcamperise.com%2F&format=xml (from camperise.com/)
+12:27:58	Error: 	"Not Found" (404) at link https://secure.gravatar.com/images/grav-share-sprite.png (from camperise.com/wp-content/plugins/jetpack/css/jetpack.css?ver=8.9.4)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 8 seconds : 103 links scanned, 92 files written (5271218 bytes overall) [5148314 bytes received at 75710 bytes/sec], 323313 bytes transferred using HTTP compression in 4 files, ratio 33%, 1.3 requests per connection
+(10 errors, 0 warnings, 0 messages)
